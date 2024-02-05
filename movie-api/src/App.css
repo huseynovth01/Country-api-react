@@ -1,0 +1,9 @@
+
+.App{
+    background-color: antiquewhite;
+    text-align: center;
+    justify-content: center;
+    h1{
+        font-size: 70px;
+    }
+}
